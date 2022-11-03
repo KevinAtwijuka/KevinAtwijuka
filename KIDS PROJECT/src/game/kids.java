@@ -18,8 +18,7 @@ public class kids {
 	    System.out.println("Enter Full Name:");
 
 	    String x = myObj.nextLine();  
-	    System.out.println("Full Name is " + x);  	    
-	    String string = "The best of both worlds";    
+	    System.out.println("Full Name is " + x);  	        
 	        int count = 0;    
 	            
 
